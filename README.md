@@ -1,2 +1,2 @@
 # SpringBootHibernateDemo
-Sprint Boot + Hibernate + Gradle
+Spring Boot + Hibernate + Gradle
