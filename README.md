@@ -1,2 +1,3 @@
 # SpringBootHibernateDemo
-Spring Boot + Hibernate + Gradle
+Spring Boot + Hibernate + Gradle + JDK8
+
